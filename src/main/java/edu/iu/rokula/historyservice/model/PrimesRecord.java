@@ -1,4 +1,4 @@
-package edu.iu.svarikot.historyservice.model;
+package com.iu.rokula.historyservice.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
