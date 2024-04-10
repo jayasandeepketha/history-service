@@ -1,6 +1,6 @@
-package edu.iu.svarikot.historyservice.repository;
+package com.iu.rokula.historyservice.repository;
 
-import edu.iu.svarikot.historyservice.model.PrimesRecord;
+import com.iu.rokula.historyservice.model.PrimesRecord;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 
