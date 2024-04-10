@@ -1,4 +1,4 @@
-package edu.iu.svarikot.historyservice;
+package com.iu.rokula.historyservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
