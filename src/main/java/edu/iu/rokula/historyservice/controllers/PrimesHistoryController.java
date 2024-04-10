@@ -1,7 +1,7 @@
-package edu.iu.svarikot.historyservice.controllers;
+package com.iu.rokula.historyservice.controllers;
 
-import edu.iu.svarikot.historyservice.model.PrimesRecord;
-import edu.iu.svarikot.historyservice.repository.PrimesHistoryRepository;
+import com.iu.rokula.historyservice.model.PrimesRecord;
+import com.iu.rokula.historyservice.repository.PrimesHistoryRepository;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
